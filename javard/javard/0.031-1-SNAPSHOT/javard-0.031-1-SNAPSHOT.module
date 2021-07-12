@@ -1,0 +1,92 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "javard",
+    "module": "javard",
+    "version": "0.027-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.031-1-SNAPSHOT.jar",
+          "url": "javard-0.031-1-SNAPSHOT.jar",
+          "size": 4690,
+          "sha512": "8230a7ac6ad5f38b1f2ce3662839d3add9168f24da34c2e90d4698542264e161f7a6ce008a3c46fea9f52d6bd2f26030360f0193a8ceb57e32098dee45aca91b",
+          "sha256": "7efe8aacdd334cc1e0656cdc9a8ca75c6be82fd053b179b23b08a3c1df39be4a",
+          "sha1": "5906d275362ee31707df61dea5b1f672f002e923",
+          "md5": "a76e18fbc12f4583cdf5f7885e974aa1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.031-1-SNAPSHOT.jar",
+          "url": "javard-0.031-1-SNAPSHOT.jar",
+          "size": 4690,
+          "sha512": "8230a7ac6ad5f38b1f2ce3662839d3add9168f24da34c2e90d4698542264e161f7a6ce008a3c46fea9f52d6bd2f26030360f0193a8ceb57e32098dee45aca91b",
+          "sha256": "7efe8aacdd334cc1e0656cdc9a8ca75c6be82fd053b179b23b08a3c1df39be4a",
+          "sha1": "5906d275362ee31707df61dea5b1f672f002e923",
+          "md5": "a76e18fbc12f4583cdf5f7885e974aa1"
+        }
+      ]
+    }
+  ]
+}
