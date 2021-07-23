@@ -1,1 +1,0 @@
-# embedded-mas-mvn-repo
