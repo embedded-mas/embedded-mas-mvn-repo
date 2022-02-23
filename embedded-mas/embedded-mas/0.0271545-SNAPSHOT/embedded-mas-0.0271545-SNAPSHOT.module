@@ -1,0 +1,127 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "embedded-mas",
+    "module": "embedded-mas",
+    "version": "0.0271545-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.0271545-SNAPSHOT.jar",
+          "url": "embedded-mas-0.0271545-SNAPSHOT.jar",
+          "size": 30548,
+          "sha512": "a6587b72c3ad7d1ac3ec1230a286ed6cc6a6cacf1b69711424f7e6a23daaadd291ef6f1637d445d5fca82e8a58fd32f29d8a4cac6170e0cd2a1bfe89d9134cbf",
+          "sha256": "8976c566ec4c3d0e4539944090945f084d7e4bf64e89a174bd5155b4998d0b70",
+          "sha1": "1d4bb971d28be599bb38655d784689fbdfc24061",
+          "md5": "307d09567d9b40ab623a0930bf343a28"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.032-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jason",
+          "module": "jason",
+          "version": {
+            "requires": "2.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "javax.json",
+          "module": "javax.json-api",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "org.glassfish",
+          "module": "javax.json",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "org.rxtx",
+          "module": "rxtx",
+          "version": {
+            "requires": "2.1.7"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.0271545-SNAPSHOT.jar",
+          "url": "embedded-mas-0.0271545-SNAPSHOT.jar",
+          "size": 30548,
+          "sha512": "a6587b72c3ad7d1ac3ec1230a286ed6cc6a6cacf1b69711424f7e6a23daaadd291ef6f1637d445d5fca82e8a58fd32f29d8a4cac6170e0cd2a1bfe89d9134cbf",
+          "sha256": "8976c566ec4c3d0e4539944090945f084d7e4bf64e89a174bd5155b4998d0b70",
+          "sha1": "1d4bb971d28be599bb38655d784689fbdfc24061",
+          "md5": "307d09567d9b40ab623a0930bf343a28"
+        }
+      ]
+    }
+  ]
+}
