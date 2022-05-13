@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "embedded-mas",
+    "module": "embedded-mas",
+    "version": "0.03009-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.03009-SNAPSHOT.jar",
+          "url": "embedded-mas-0.03009-SNAPSHOT.jar",
+          "size": 53547,
+          "sha512": "d706342cb597d8a1de40b98d90018da556f1453c636621e8eb8e7ae63e3ae9a065c38f0a93a957c612660777604132f1df88f30af0c46131c08220100bb3e494",
+          "sha256": "f1054ce677138db50664a6dfb1dfa0dd934ff6df55ce76359f7a15ad1b1c90c6",
+          "sha1": "301689ed24781e4e956a5b03beba047be71e64f6",
+          "md5": "77df2e065f77b7c7f23df0af52090343"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.032-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jason",
+          "module": "jason",
+          "version": {
+            "requires": "2.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "javax.json",
+          "module": "javax.json-api",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "org.glassfish",
+          "module": "javax.json",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "org.eclipse.jetty.websocket",
+          "module": "websocket-server",
+          "version": {
+            "requires": "9.4.46.v20220331"
+          }
+        },
+        {
+          "group": "org.rxtx",
+          "module": "rxtx",
+          "version": {
+            "requires": "2.1.7"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.03009-SNAPSHOT.jar",
+          "url": "embedded-mas-0.03009-SNAPSHOT.jar",
+          "size": 53547,
+          "sha512": "d706342cb597d8a1de40b98d90018da556f1453c636621e8eb8e7ae63e3ae9a065c38f0a93a957c612660777604132f1df88f30af0c46131c08220100bb3e494",
+          "sha256": "f1054ce677138db50664a6dfb1dfa0dd934ff6df55ce76359f7a15ad1b1c90c6",
+          "sha1": "301689ed24781e4e956a5b03beba047be71e64f6",
+          "md5": "77df2e065f77b7c7f23df0af52090343"
+        }
+      ]
+    }
+  ]
+}
