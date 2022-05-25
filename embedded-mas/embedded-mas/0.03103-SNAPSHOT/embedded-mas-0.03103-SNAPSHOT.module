@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "embedded-mas",
+    "module": "embedded-mas",
+    "version": "0.03103-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.03103-SNAPSHOT.jar",
+          "url": "embedded-mas-0.03103-SNAPSHOT.jar",
+          "size": 63504,
+          "sha512": "ba11c7e1b708fab80fc67d09db85b1fa9ff0b3b00a48b1167414c64d41d527ce68b11340897937e552a0e41af457cd156a9d02628eb9ee2e4edff726a0f6f804",
+          "sha256": "220bfe451eb7fdd194078075eb3981e25b97d6184b3977768c37f14071acc174",
+          "sha1": "7687b38f9d41b80e71a4f49a67723f1b6a15ef37",
+          "md5": "971c5bb6b966841f8c91a9c1b041d30d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.032-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jason",
+          "module": "jason",
+          "version": {
+            "requires": "2.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "javax.json",
+          "module": "javax.json-api",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "org.glassfish",
+          "module": "javax.json",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "org.eclipse.jetty.websocket",
+          "module": "websocket-server",
+          "version": {
+            "requires": "9.4.46.v20220331"
+          }
+        },
+        {
+          "group": "org.rxtx",
+          "module": "rxtx",
+          "version": {
+            "requires": "2.1.7"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.03103-SNAPSHOT.jar",
+          "url": "embedded-mas-0.03103-SNAPSHOT.jar",
+          "size": 63504,
+          "sha512": "ba11c7e1b708fab80fc67d09db85b1fa9ff0b3b00a48b1167414c64d41d527ce68b11340897937e552a0e41af457cd156a9d02628eb9ee2e4edff726a0f6f804",
+          "sha256": "220bfe451eb7fdd194078075eb3981e25b97d6184b3977768c37f14071acc174",
+          "sha1": "7687b38f9d41b80e71a4f49a67723f1b6a15ef37",
+          "md5": "971c5bb6b966841f8c91a9c1b041d30d"
+        }
+      ]
+    }
+  ]
+}
