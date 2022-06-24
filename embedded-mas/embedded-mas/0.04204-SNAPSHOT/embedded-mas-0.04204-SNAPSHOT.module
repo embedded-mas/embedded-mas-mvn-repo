@@ -1,0 +1,155 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "embedded-mas",
+    "module": "embedded-mas",
+    "version": "0.04204-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.04204-SNAPSHOT.jar",
+          "url": "embedded-mas-0.04204-SNAPSHOT.jar",
+          "size": 72998,
+          "sha512": "d4a53cf737ab87f4ab94779c8dc3a1f3f680b1ffeb01b6fe1a20c4bf1333a5f9623e667f702be3006c473de29d9a96762b671da1991fcf6ac95890bb265bd7d3",
+          "sha256": "a7f2632faaadf327956622fdfe82e5f10defdf523d4e6569cf4d6efd2ec34e94",
+          "sha1": "0ef4a330c0123d2b93fb6d7af7d0ee4cedc2ca03",
+          "md5": "190b064fdb9826797f136e4aa09817c9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.032-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jason",
+          "module": "jason",
+          "version": {
+            "requires": "2.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "javax.json",
+          "module": "javax.json-api",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "org.glassfish",
+          "module": "javax.json",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.13.2"
+          }
+        },
+        {
+          "group": "org.eclipse.jetty.websocket",
+          "module": "websocket-server",
+          "version": {
+            "requires": "9.4.46.v20220331"
+          }
+        },
+        {
+          "group": "org.rxtx",
+          "module": "rxtx",
+          "version": {
+            "requires": "2.1.7"
+          }
+        },
+        {
+          "group": "edu.wpi.rail",
+          "module": "jrosbridge",
+          "version": {
+            "requires": "0.2.0"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "embedded-mas-0.04204-SNAPSHOT.jar",
+          "url": "embedded-mas-0.04204-SNAPSHOT.jar",
+          "size": 72998,
+          "sha512": "d4a53cf737ab87f4ab94779c8dc3a1f3f680b1ffeb01b6fe1a20c4bf1333a5f9623e667f702be3006c473de29d9a96762b671da1991fcf6ac95890bb265bd7d3",
+          "sha256": "a7f2632faaadf327956622fdfe82e5f10defdf523d4e6569cf4d6efd2ec34e94",
+          "sha1": "0ef4a330c0123d2b93fb6d7af7d0ee4cedc2ca03",
+          "md5": "190b064fdb9826797f136e4aa09817c9"
+        }
+      ]
+    }
+  ]
+}
