@@ -7,22 +7,22 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20220701161514</lastUpdated>
+    <lastUpdated>20220708130349</lastUpdated>
     <snapshotVersions>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.04602-SNAPSHOT</value>
-        <updated>20220701161514</updated>
-      </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
         <value>0.04602-SNAPSHOT</value>
-        <updated>20220701161514</updated>
+        <updated>20220708130349</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.04602-SNAPSHOT</value>
+        <updated>20220708130349</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.04602-SNAPSHOT</value>
-        <updated>20220701161514</updated>
+        <updated>20220708130349</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
