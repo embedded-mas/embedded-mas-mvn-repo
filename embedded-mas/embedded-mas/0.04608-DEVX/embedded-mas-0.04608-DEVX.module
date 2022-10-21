@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.04608-DEVX.jar",
           "url": "embedded-mas-0.04608-DEVX.jar",
-          "size": 69524,
-          "sha512": "fbbd84c24c3532e55a18592474d52424c28da40a023f63b68b6237f148289661160d81b39853e5d2c3c76a3083c4de5d102320232526bbeeef5648f831195635",
-          "sha256": "10b79cb03ffbf59af4ba3446224e5bf636088a481c14435fcf8277d2e8d469c1",
-          "sha1": "52a22b12f0b4c1abe740781ffbf3ffbf186aa834",
-          "md5": "557834fe5da8d1e3cb8892d7db75dc3b"
+          "size": 69579,
+          "sha512": "1e0c302d6999b9f33a47d866d493dc29d65a0685f50e615b75b76f527e8b5aa63c861953447155166a9575226c5f236c492061bfcb3eb3b67330364941aa37a2",
+          "sha256": "79e8ccdde50e7ff7c7ea9c4a8f103b3876b073cc2a3d642f33ec0616fb35cd11",
+          "sha1": "a2c5e28298ba9df4db45fd0bafffec54f82cf76e",
+          "md5": "61d7a893a10e9374abb66ce5d5cfccb5"
         }
       ]
     },
@@ -143,11 +143,11 @@
         {
           "name": "embedded-mas-0.04608-DEVX.jar",
           "url": "embedded-mas-0.04608-DEVX.jar",
-          "size": 69524,
-          "sha512": "fbbd84c24c3532e55a18592474d52424c28da40a023f63b68b6237f148289661160d81b39853e5d2c3c76a3083c4de5d102320232526bbeeef5648f831195635",
-          "sha256": "10b79cb03ffbf59af4ba3446224e5bf636088a481c14435fcf8277d2e8d469c1",
-          "sha1": "52a22b12f0b4c1abe740781ffbf3ffbf186aa834",
-          "md5": "557834fe5da8d1e3cb8892d7db75dc3b"
+          "size": 69579,
+          "sha512": "1e0c302d6999b9f33a47d866d493dc29d65a0685f50e615b75b76f527e8b5aa63c861953447155166a9575226c5f236c492061bfcb3eb3b67330364941aa37a2",
+          "sha256": "79e8ccdde50e7ff7c7ea9c4a8f103b3876b073cc2a3d642f33ec0616fb35cd11",
+          "sha1": "a2c5e28298ba9df4db45fd0bafffec54f82cf76e",
+          "md5": "61d7a893a10e9374abb66ce5d5cfccb5"
         }
       ]
     }
