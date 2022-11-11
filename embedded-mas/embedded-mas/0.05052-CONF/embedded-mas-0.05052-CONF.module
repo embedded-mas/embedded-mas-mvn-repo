@@ -3,7 +3,7 @@
   "component": {
     "group": "embedded-mas",
     "module": "embedded-mas",
-    "version": "0.05051-CONF",
+    "version": "0.05052-CONF",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "embedded-mas-0.05051-CONF.jar",
-          "url": "embedded-mas-0.05051-CONF.jar",
+          "name": "embedded-mas-0.05052-CONF.jar",
+          "url": "embedded-mas-0.05052-CONF.jar",
           "size": 91252,
-          "sha512": "20d0f86368d98fff44663ca0ccd2385ee5f2ee9155c82e0e7ae18f2fa52614647cfbc506467c2b9513c77c8fd4e27669b150ae2e3f8f88ac85beb618fd645e3d",
-          "sha256": "eff86f07f799febaaffcceafffd2c6fa8a73a9cd9865b2c9c3edd63731886221",
-          "sha1": "4c63ccf1754b162137deb45f4b12de51bab6fc86",
-          "md5": "4ea4dc7edb09a659550788564cc0eb5e"
+          "sha512": "7ec648f34993d98ebd68a85e0eb6a642e0856df140ee333350787bb3bf386dcb2b0ced6fed565e5c5a08e080544157813f3c746aacf188e68a05b1e804bb1a44",
+          "sha256": "168283eb7e71f6ebc895eae0789c74f59d7aef8b49455be47a65cb719d0a8e0b",
+          "sha1": "a73f892483da885dfac310124dffc330d3b7793e",
+          "md5": "b56dff0ea5329ba1792541240d94d94a"
         }
       ]
     },
@@ -162,13 +162,13 @@
       ],
       "files": [
         {
-          "name": "embedded-mas-0.05051-CONF.jar",
-          "url": "embedded-mas-0.05051-CONF.jar",
+          "name": "embedded-mas-0.05052-CONF.jar",
+          "url": "embedded-mas-0.05052-CONF.jar",
           "size": 91252,
-          "sha512": "20d0f86368d98fff44663ca0ccd2385ee5f2ee9155c82e0e7ae18f2fa52614647cfbc506467c2b9513c77c8fd4e27669b150ae2e3f8f88ac85beb618fd645e3d",
-          "sha256": "eff86f07f799febaaffcceafffd2c6fa8a73a9cd9865b2c9c3edd63731886221",
-          "sha1": "4c63ccf1754b162137deb45f4b12de51bab6fc86",
-          "md5": "4ea4dc7edb09a659550788564cc0eb5e"
+          "sha512": "7ec648f34993d98ebd68a85e0eb6a642e0856df140ee333350787bb3bf386dcb2b0ced6fed565e5c5a08e080544157813f3c746aacf188e68a05b1e804bb1a44",
+          "sha256": "168283eb7e71f6ebc895eae0789c74f59d7aef8b49455be47a65cb719d0a8e0b",
+          "sha1": "a73f892483da885dfac310124dffc330d3b7793e",
+          "md5": "b56dff0ea5329ba1792541240d94d94a"
         }
       ]
     }
