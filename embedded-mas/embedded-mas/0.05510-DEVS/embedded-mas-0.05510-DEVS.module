@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.05510-DEVS.jar",
           "url": "embedded-mas-0.05510-DEVS.jar",
-          "size": 88440,
-          "sha512": "9894863dc6317ed1c7834d853cb385e15b96841ae60413eee0854702b20a14ce587e8cf1d4d37bc2930524a0a5f1f55d32b82ee9868498a61826cbe77017f97f",
-          "sha256": "6f6190fc48dfba0bf0a504ea5af54dd52d33fa3ab00af572f9b3effbbe418513",
-          "sha1": "c8e5d863820a5f946f2311858b8b59aa9aeb646e",
-          "md5": "724d571b965777ed492e17b9d548729c"
+          "size": 88539,
+          "sha512": "f8aed9c19100f23e330ba1522be78932ea3d3cf45394de9b61360672a10926407b82c5fda96292c7ba2500c5acb8511a7ff221072e1955f8c45b45ebd0857778",
+          "sha256": "3bb904718cef240a08b7420b666d636bc49df408a3a834ff4c99dc0cbe24e1f6",
+          "sha1": "b2ad46caedf5d52b58462a3545553c96b193a7ab",
+          "md5": "1a5962677772d596c5c523a71f0c2e56"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.05510-DEVS.jar",
           "url": "embedded-mas-0.05510-DEVS.jar",
-          "size": 88440,
-          "sha512": "9894863dc6317ed1c7834d853cb385e15b96841ae60413eee0854702b20a14ce587e8cf1d4d37bc2930524a0a5f1f55d32b82ee9868498a61826cbe77017f97f",
-          "sha256": "6f6190fc48dfba0bf0a504ea5af54dd52d33fa3ab00af572f9b3effbbe418513",
-          "sha1": "c8e5d863820a5f946f2311858b8b59aa9aeb646e",
-          "md5": "724d571b965777ed492e17b9d548729c"
+          "size": 88539,
+          "sha512": "f8aed9c19100f23e330ba1522be78932ea3d3cf45394de9b61360672a10926407b82c5fda96292c7ba2500c5acb8511a7ff221072e1955f8c45b45ebd0857778",
+          "sha256": "3bb904718cef240a08b7420b666d636bc49df408a3a834ff4c99dc0cbe24e1f6",
+          "sha1": "b2ad46caedf5d52b58462a3545553c96b193a7ab",
+          "md5": "1a5962677772d596c5c523a71f0c2e56"
         }
       ]
     }
