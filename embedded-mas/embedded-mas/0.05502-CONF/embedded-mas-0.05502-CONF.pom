@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>embedded-mas</groupId>
   <artifactId>embedded-mas</artifactId>
-  <version>0.05062-CONF</version>
+  <version>0.05502-CONF</version>
   <dependencies>
     <dependency>
       <groupId>org.apache.commons</groupId>

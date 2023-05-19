@@ -3,14 +3,14 @@
   "component": {
     "group": "embedded-mas",
     "module": "embedded-mas",
-    "version": "0.05062-CONF",
+    "version": "0.05502-CONF",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "embedded-mas-0.05062-CONF.jar",
-          "url": "embedded-mas-0.05062-CONF.jar",
-          "size": 90491,
-          "sha512": "7374eef07da6390b97f7be5cd3e5dda3004367d4d1d49c4b21481de57de9d76983e0d07a4eb27551162a368dca6d1ddf63707217acb5539e828c06faaa35e27c",
-          "sha256": "9f9a7e5cc7a9c58ecfead5fb8ad1f970ec21e6b14411bb3e740eb759ef2259e0",
-          "sha1": "fabbd689fcc0aac730ef75306b0deaf1f69f895e",
-          "md5": "5b9a05e8abcf52fb031d01a6a0420721"
+          "name": "embedded-mas-0.05502-CONF.jar",
+          "url": "embedded-mas-0.05502-CONF.jar",
+          "size": 90946,
+          "sha512": "961d6c85e5c2e6904eb5a0a0cfebe5f3d38311a40ed3d286994583d0648ca78dbae977eb7fcf2ff02dd0e80c390ef861c6cd5d7ef39df5560855f033de80b985",
+          "sha256": "05260446135c7812047f0ceca27f428fbf2c8e9d96fbb1e56d4c46e8e4f299f9",
+          "sha1": "b5b384fa4e0a23efbc90e1ca5a404ec455db57ec",
+          "md5": "4fa72abb520c8975d9ef329c9bc34898"
         }
       ]
     },
@@ -162,13 +162,13 @@
       ],
       "files": [
         {
-          "name": "embedded-mas-0.05062-CONF.jar",
-          "url": "embedded-mas-0.05062-CONF.jar",
-          "size": 90491,
-          "sha512": "7374eef07da6390b97f7be5cd3e5dda3004367d4d1d49c4b21481de57de9d76983e0d07a4eb27551162a368dca6d1ddf63707217acb5539e828c06faaa35e27c",
-          "sha256": "9f9a7e5cc7a9c58ecfead5fb8ad1f970ec21e6b14411bb3e740eb759ef2259e0",
-          "sha1": "fabbd689fcc0aac730ef75306b0deaf1f69f895e",
-          "md5": "5b9a05e8abcf52fb031d01a6a0420721"
+          "name": "embedded-mas-0.05502-CONF.jar",
+          "url": "embedded-mas-0.05502-CONF.jar",
+          "size": 90946,
+          "sha512": "961d6c85e5c2e6904eb5a0a0cfebe5f3d38311a40ed3d286994583d0648ca78dbae977eb7fcf2ff02dd0e80c390ef861c6cd5d7ef39df5560855f033de80b985",
+          "sha256": "05260446135c7812047f0ceca27f428fbf2c8e9d96fbb1e56d4c46e8e4f299f9",
+          "sha1": "b5b384fa4e0a23efbc90e1ca5a404ec455db57ec",
+          "md5": "4fa72abb520c8975d9ef329c9bc34898"
         }
       ]
     }
