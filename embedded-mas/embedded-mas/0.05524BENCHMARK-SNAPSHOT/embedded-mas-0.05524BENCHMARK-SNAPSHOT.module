@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.05524BENCHMARK-SNAPSHOT.jar",
           "url": "embedded-mas-0.05524BENCHMARK-SNAPSHOT.jar",
-          "size": 88064,
-          "sha512": "2a04eb02f5c8f2fe3b913fb72e618bff1b503b6579489b676280e4dc1a550c7e35154ab8d00fa65fb932b6c1586d6781e4e40587515ae534ab18e8d0cf4f64c5",
-          "sha256": "1a3674cf56e9b95838864e9c82f9e4c6916e39cf3bf83e82ebbadd2561a8bd86",
-          "sha1": "50d0cf29bc52f435fa07022fbf3ed3579605199d",
-          "md5": "1c2348e5ab47b65d4cdcf7c1777ba063"
+          "size": 88071,
+          "sha512": "c95c20cf1cbbf8386f482b214f3120fc1337e66d0097b79de65511ee7e56529f9f63340834445d295179458321c03c519b6b332128b7f90673aed66a8a0ddbf9",
+          "sha256": "33120e38e2f74c2aa9b4291de8664dfdd418e566ce23e6a9edb6bccf050eb6ac",
+          "sha1": "26eaa25c0ab3437f829eb86921fa9ff90c5dbe8a",
+          "md5": "7195e734e094ad9f45b781672bd011bf"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.05524BENCHMARK-SNAPSHOT.jar",
           "url": "embedded-mas-0.05524BENCHMARK-SNAPSHOT.jar",
-          "size": 88064,
-          "sha512": "2a04eb02f5c8f2fe3b913fb72e618bff1b503b6579489b676280e4dc1a550c7e35154ab8d00fa65fb932b6c1586d6781e4e40587515ae534ab18e8d0cf4f64c5",
-          "sha256": "1a3674cf56e9b95838864e9c82f9e4c6916e39cf3bf83e82ebbadd2561a8bd86",
-          "sha1": "50d0cf29bc52f435fa07022fbf3ed3579605199d",
-          "md5": "1c2348e5ab47b65d4cdcf7c1777ba063"
+          "size": 88071,
+          "sha512": "c95c20cf1cbbf8386f482b214f3120fc1337e66d0097b79de65511ee7e56529f9f63340834445d295179458321c03c519b6b332128b7f90673aed66a8a0ddbf9",
+          "sha256": "33120e38e2f74c2aa9b4291de8664dfdd418e566ce23e6a9edb6bccf050eb6ac",
+          "sha1": "26eaa25c0ab3437f829eb86921fa9ff90c5dbe8a",
+          "md5": "7195e734e094ad9f45b781672bd011bf"
         }
       ]
     }
