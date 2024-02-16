@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.059-TEMP.jar",
           "url": "embedded-mas-0.059-TEMP.jar",
-          "size": 91228,
-          "sha512": "68237dc71ceb41e35976bf047fd4d78337de4e30b8b2c6a482f366690698b27dbc833e0e17b6f52b245bbfa8f889ab2d47b6f4da8fd12f6d555451f6373cd9b4",
-          "sha256": "d8eb5c5dd97a99dc1dfb9693597d09466883743bfafde4f3d3ac0e22e8ec0062",
-          "sha1": "6b53e1c885c29f5fb2c4ceabc017d7dca1e3def8",
-          "md5": "f2426dbec90cf208d2357dbac69d8bd0"
+          "size": 91278,
+          "sha512": "88e549f5f0f0bc3d00b2065728ae7ac257b9691b52e2204ca45816236ec4788e226a987a7fe45e613fa5533aa2df0da0a71470e8017eedbec2395b088e369d99",
+          "sha256": "dee4144e03dc228952f221184395e6ad41966db65c97325bb2f74bffa161494b",
+          "sha1": "d27e70ff898691a21930f02248b3807b9559864e",
+          "md5": "31a4b4df02900a5b581b9b17da8f1ce8"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.059-TEMP.jar",
           "url": "embedded-mas-0.059-TEMP.jar",
-          "size": 91228,
-          "sha512": "68237dc71ceb41e35976bf047fd4d78337de4e30b8b2c6a482f366690698b27dbc833e0e17b6f52b245bbfa8f889ab2d47b6f4da8fd12f6d555451f6373cd9b4",
-          "sha256": "d8eb5c5dd97a99dc1dfb9693597d09466883743bfafde4f3d3ac0e22e8ec0062",
-          "sha1": "6b53e1c885c29f5fb2c4ceabc017d7dca1e3def8",
-          "md5": "f2426dbec90cf208d2357dbac69d8bd0"
+          "size": 91278,
+          "sha512": "88e549f5f0f0bc3d00b2065728ae7ac257b9691b52e2204ca45816236ec4788e226a987a7fe45e613fa5533aa2df0da0a71470e8017eedbec2395b088e369d99",
+          "sha256": "dee4144e03dc228952f221184395e6ad41966db65c97325bb2f74bffa161494b",
+          "sha1": "d27e70ff898691a21930f02248b3807b9559864e",
+          "md5": "31a4b4df02900a5b581b9b17da8f1ce8"
         }
       ]
     }
