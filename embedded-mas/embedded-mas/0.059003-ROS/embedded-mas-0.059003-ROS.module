@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.059003-ROS.jar",
           "url": "embedded-mas-0.059003-ROS.jar",
-          "size": 94504,
-          "sha512": "7c4d5fd6e34b2fb6dfb78a0b3edcd2211e19394c46cb8b19efd26bd15e1d41d2cde0dbfbc043c5a971dd6b80a5c79021e147362d243edcb4cf19f0bf0a420be7",
-          "sha256": "4403190ff8a00f1fba0973e1752dad429ebd631fc08dc734c6d8a1accc43d90d",
-          "sha1": "8dc5807bb8fdcca119d59b56c5154ce9fa5367be",
-          "md5": "ead44f868ddab7c6be0a680eae7feabc"
+          "size": 94567,
+          "sha512": "8b6b3c186ee00d681c89d2d28f77c95ec70a8d8ad947f6e1e78b13924417c3b869d4638aed42acf3d311f01a8cb09fe8aa9eea8576431f81f759b6c9ca121ca1",
+          "sha256": "5a292c87fb6c8d96308ab56b875b5387536627a45ed83b10298f1a82265e3b38",
+          "sha1": "2187ecd3eb5635d124e4a575efe61449f94b33e8",
+          "md5": "f9bee7fc5fef19acc51c04910e83a85d"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.059003-ROS.jar",
           "url": "embedded-mas-0.059003-ROS.jar",
-          "size": 94504,
-          "sha512": "7c4d5fd6e34b2fb6dfb78a0b3edcd2211e19394c46cb8b19efd26bd15e1d41d2cde0dbfbc043c5a971dd6b80a5c79021e147362d243edcb4cf19f0bf0a420be7",
-          "sha256": "4403190ff8a00f1fba0973e1752dad429ebd631fc08dc734c6d8a1accc43d90d",
-          "sha1": "8dc5807bb8fdcca119d59b56c5154ce9fa5367be",
-          "md5": "ead44f868ddab7c6be0a680eae7feabc"
+          "size": 94567,
+          "sha512": "8b6b3c186ee00d681c89d2d28f77c95ec70a8d8ad947f6e1e78b13924417c3b869d4638aed42acf3d311f01a8cb09fe8aa9eea8576431f81f759b6c9ca121ca1",
+          "sha256": "5a292c87fb6c8d96308ab56b875b5387536627a45ed83b10298f1a82265e3b38",
+          "sha1": "2187ecd3eb5635d124e4a575efe61449f94b33e8",
+          "md5": "f9bee7fc5fef19acc51c04910e83a85d"
         }
       ]
     }
