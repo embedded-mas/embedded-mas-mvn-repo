@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3"
+      "version": "7.4.2"
     }
   },
   "variants": [
@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.059-SNAPSHOT.jar",
           "url": "embedded-mas-0.059-SNAPSHOT.jar",
-          "size": 98491,
-          "sha512": "5c06ccbd8e06c109639a28458f8b5383f358b9d84d4db128b59530ba3fed09d5be8ff75b40bb85839c029ec350d3aa706861a98368113ef818a3282601f9f99b",
-          "sha256": "5d1ad97298a5689dfd820985c99f000b04365328423d8531e0294879a72a1aff",
-          "sha1": "eac75063efeec0c2d8b9e0386ec349469ef92dfa",
-          "md5": "dbd36d7661a4a845f4295446d9f1bef9"
+          "size": 94911,
+          "sha512": "fd652190ad0f751466ad555790171a302d74fa2ca0bab9359d51821ed9d4f50666996f53405152893f23666396ab4d95c76014a4c866c3c7373030c39b40b5e5",
+          "sha256": "9fdc4183d9a4a692f3cadc600f4934447413d39432062a86b863f9e40807fdf9",
+          "sha1": "3a57eb85ebfc63a8a352b2e80285ea95abe4c0fa",
+          "md5": "250eebbe15ed283189fe5fa1177786a3"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.059-SNAPSHOT.jar",
           "url": "embedded-mas-0.059-SNAPSHOT.jar",
-          "size": 98491,
-          "sha512": "5c06ccbd8e06c109639a28458f8b5383f358b9d84d4db128b59530ba3fed09d5be8ff75b40bb85839c029ec350d3aa706861a98368113ef818a3282601f9f99b",
-          "sha256": "5d1ad97298a5689dfd820985c99f000b04365328423d8531e0294879a72a1aff",
-          "sha1": "eac75063efeec0c2d8b9e0386ec349469ef92dfa",
-          "md5": "dbd36d7661a4a845f4295446d9f1bef9"
+          "size": 94911,
+          "sha512": "fd652190ad0f751466ad555790171a302d74fa2ca0bab9359d51821ed9d4f50666996f53405152893f23666396ab4d95c76014a4c866c3c7373030c39b40b5e5",
+          "sha256": "9fdc4183d9a4a692f3cadc600f4934447413d39432062a86b863f9e40807fdf9",
+          "sha1": "3a57eb85ebfc63a8a352b2e80285ea95abe4c0fa",
+          "md5": "250eebbe15ed283189fe5fa1177786a3"
         }
       ]
     }
