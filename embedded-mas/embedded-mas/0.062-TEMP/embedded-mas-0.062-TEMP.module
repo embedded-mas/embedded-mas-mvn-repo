@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "7.3"
     }
   },
   "variants": [
@@ -36,11 +36,11 @@
         {
           "name": "embedded-mas-0.062-TEMP.jar",
           "url": "embedded-mas-0.062-TEMP.jar",
-          "size": 91320,
-          "sha512": "7754fc52321c8e0f6bc836629dbabef9b97d15fc76809b46257cbb41df1a4eea074011f1528982074b4759a9dee19f2b4223563e03b408dd423ee027286aa3d4",
-          "sha256": "1393c96d9780181decc551e1da1f4ac60aef846cb19552567c6ed29b35ef25b8",
-          "sha1": "db187ebf6253edd35132ac83287ed4805fb428fd",
-          "md5": "7aa1fe8eecedbfd9c72d614147a8b2fc"
+          "size": 102411,
+          "sha512": "240620ad6c405bf6f69e8d8f634a6a111a642567a4fcbb103eee4c8131b22859e2e0a47c41e873c2276ed864aa5572882d634c04017f901640e6324ac95e8060",
+          "sha256": "147b4b140a90a971245ed8e8f2c2034999e0e44ef92d3131f440dcc092cbda6e",
+          "sha1": "11681ea57836338c43ee84d23974aef121a9b817",
+          "md5": "5c1099373d148afa8758c65ccec7168a"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "embedded-mas-0.062-TEMP.jar",
           "url": "embedded-mas-0.062-TEMP.jar",
-          "size": 91320,
-          "sha512": "7754fc52321c8e0f6bc836629dbabef9b97d15fc76809b46257cbb41df1a4eea074011f1528982074b4759a9dee19f2b4223563e03b408dd423ee027286aa3d4",
-          "sha256": "1393c96d9780181decc551e1da1f4ac60aef846cb19552567c6ed29b35ef25b8",
-          "sha1": "db187ebf6253edd35132ac83287ed4805fb428fd",
-          "md5": "7aa1fe8eecedbfd9c72d614147a8b2fc"
+          "size": 102411,
+          "sha512": "240620ad6c405bf6f69e8d8f634a6a111a642567a4fcbb103eee4c8131b22859e2e0a47c41e873c2276ed864aa5572882d634c04017f901640e6324ac95e8060",
+          "sha256": "147b4b140a90a971245ed8e8f2c2034999e0e44ef92d3131f440dcc092cbda6e",
+          "sha1": "11681ea57836338c43ee84d23974aef121a9b817",
+          "md5": "5c1099373d148afa8758c65ccec7168a"
         }
       ]
     }
