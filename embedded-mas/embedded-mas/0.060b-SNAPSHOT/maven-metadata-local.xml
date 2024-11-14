@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>embedded-mas</groupId>
+  <artifactId>embedded-mas</artifactId>
+  <versioning>
+    <lastUpdated>20241114160259</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.060b-SNAPSHOT</value>
+        <updated>20241114160259</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.060b-SNAPSHOT</value>
+        <updated>20241114160259</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.060b-SNAPSHOT</value>
+        <updated>20241114160259</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.060b-SNAPSHOT</version>
+</metadata>
