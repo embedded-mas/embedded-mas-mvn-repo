@@ -25,6 +25,20 @@
       },
       "dependencies": [
         {
+          "group": "org.eclipse.jetty.websocket",
+          "module": "websocket-server",
+          "version": {
+            "requires": "9.4.46.v20220331"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "1.30"
+          }
+        },
+        {
           "group": "org.apache.commons",
           "module": "commons-math3",
           "version": {
@@ -104,13 +118,6 @@
           }
         },
         {
-          "group": "org.eclipse.jetty.websocket",
-          "module": "websocket-server",
-          "version": {
-            "requires": "9.4.46.v20220331"
-          }
-        },
-        {
           "group": "org.rxtx",
           "module": "rxtx",
           "version": {
@@ -139,17 +146,24 @@
           }
         },
         {
-          "group": "org.yaml",
-          "module": "snakeyaml",
-          "version": {
-            "requires": "1.30"
-          }
-        },
-        {
           "group": "com.google.guava",
           "module": "guava",
           "version": {
             "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.eclipse.jetty.websocket",
+          "module": "websocket-server",
+          "version": {
+            "requires": "9.4.46.v20220331"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "1.30"
           }
         },
         {
