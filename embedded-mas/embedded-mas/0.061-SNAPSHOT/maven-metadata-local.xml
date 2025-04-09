@@ -2,28 +2,28 @@
 <metadata modelVersion="1.1.0">
   <groupId>embedded-mas</groupId>
   <artifactId>embedded-mas</artifactId>
+  <version>0.061-SNAPSHOT</version>
   <versioning>
-    <lastUpdated>20250403024928</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
+    <lastUpdated>20250409124535</lastUpdated>
     <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.061-SNAPSHOT</value>
+        <updated>20250409124535</updated>
+      </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
         <value>0.061-SNAPSHOT</value>
-        <updated>20250403024928</updated>
+        <updated>20250409124535</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.061-SNAPSHOT</value>
-        <updated>20250403024928</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.061-SNAPSHOT</value>
-        <updated>20250403024928</updated>
+        <updated>20250409124535</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>0.061-SNAPSHOT</version>
 </metadata>
