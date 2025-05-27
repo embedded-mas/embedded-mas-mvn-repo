@@ -1,0 +1,99 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "javard",
+    "module": "javard",
+    "version": "0.035-NRJ",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.035-NRJ.jar",
+          "url": "javard-0.035-NRJ.jar",
+          "size": 7179,
+          "sha512": "8422cee5482904c620b5bb35092620d7c240e0717989ce4d46be5a5837613849bdef8531d9cad0ebda5351ee03b8cb7e429ceb73549711f6ee960876b6c28e4d",
+          "sha256": "3495dcf158ca6d1e7806c91a89a3e9691593062256e351153c32004df0534210",
+          "sha1": "d1a4c83cb6adc15f9f901d2c1bd756592ee728cd",
+          "md5": "d04bbd6079773f7af06018e80d2a1546"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "com.neuronrobotics",
+          "module": "nrjavaserial",
+          "version": {
+            "requires": "5.2.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.035-NRJ.jar",
+          "url": "javard-0.035-NRJ.jar",
+          "size": 7179,
+          "sha512": "8422cee5482904c620b5bb35092620d7c240e0717989ce4d46be5a5837613849bdef8531d9cad0ebda5351ee03b8cb7e429ceb73549711f6ee960876b6c28e4d",
+          "sha256": "3495dcf158ca6d1e7806c91a89a3e9691593062256e351153c32004df0534210",
+          "sha1": "d1a4c83cb6adc15f9f901d2c1bd756592ee728cd",
+          "md5": "d04bbd6079773f7af06018e80d2a1546"
+        }
+      ]
+    }
+  ]
+}
