@@ -50,11 +50,11 @@
         {
           "name": "embedded-mas-0.061c-NRJ.jar",
           "url": "embedded-mas-0.061c-NRJ.jar",
-          "size": 117673,
-          "sha512": "1176a61059ba1d29939aef2879a6a2048e12ed8518c3c275ee019cbb9be239fcb85142d1d556edb763ee75d2dff88ab2a72ffa3e0374182825ced83b54e14468",
-          "sha256": "ff85c60fb8ad21d1493e8053815e688dfa513600cccdc4a7cf8aca65dbae10fd",
-          "sha1": "a2cfe596c0be6a72f54385ef2895294cb24b617c",
-          "md5": "ff0d639912412d3a98e284c92872bf06"
+          "size": 117478,
+          "sha512": "20957beae933884c9f4492e2fa47cd84615fa66d396ff510507d467fa73af24ac67428d4d0cb12ae2ae1f079d2d8900c89651cddcb3e464cb86be86e714336ac",
+          "sha256": "64b41a9d5911048ea05bd41b2aed847d7b32cf077cfaa8eecdf93164bfa6a285",
+          "sha1": "e15a8658eade068f0ac33087837b77db76b3a231",
+          "md5": "4b8f9df20e549fc7ed8e038fcc2b0ad8"
         }
       ]
     },
@@ -178,11 +178,11 @@
         {
           "name": "embedded-mas-0.061c-NRJ.jar",
           "url": "embedded-mas-0.061c-NRJ.jar",
-          "size": 117673,
-          "sha512": "1176a61059ba1d29939aef2879a6a2048e12ed8518c3c275ee019cbb9be239fcb85142d1d556edb763ee75d2dff88ab2a72ffa3e0374182825ced83b54e14468",
-          "sha256": "ff85c60fb8ad21d1493e8053815e688dfa513600cccdc4a7cf8aca65dbae10fd",
-          "sha1": "a2cfe596c0be6a72f54385ef2895294cb24b617c",
-          "md5": "ff0d639912412d3a98e284c92872bf06"
+          "size": 117478,
+          "sha512": "20957beae933884c9f4492e2fa47cd84615fa66d396ff510507d467fa73af24ac67428d4d0cb12ae2ae1f079d2d8900c89651cddcb3e464cb86be86e714336ac",
+          "sha256": "64b41a9d5911048ea05bd41b2aed847d7b32cf077cfaa8eecdf93164bfa6a285",
+          "sha1": "e15a8658eade068f0ac33087837b77db76b3a231",
+          "md5": "4b8f9df20e549fc7ed8e038fcc2b0ad8"
         }
       ]
     }
