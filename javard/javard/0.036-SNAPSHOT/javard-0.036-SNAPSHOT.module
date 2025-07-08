@@ -1,0 +1,99 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "javard",
+    "module": "javard",
+    "version": "0.036-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.036-SNAPSHOT.jar",
+          "url": "javard-0.036-SNAPSHOT.jar",
+          "size": 7169,
+          "sha512": "d6d4126bb6474ec191f4a173ff7ee1bbf6c8e2ca86516dbcc61b18ab15e6bd2fe43e4d76b7ec45ab031109fdd4fd7eaa999b9b12cb637a8ab3dab81d2891e0e9",
+          "sha256": "579858d106bd55d5d0978d03122e650e7baeead8bd241eb33721a08ff3466bc2",
+          "sha1": "e3624ee2e8d5f9ef390a2aba243ead4e20649ae7",
+          "md5": "828537b5da76762db59870c8e7407b5c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "com.neuronrobotics",
+          "module": "nrjavaserial",
+          "version": {
+            "requires": "5.2.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "javard-0.036-SNAPSHOT.jar",
+          "url": "javard-0.036-SNAPSHOT.jar",
+          "size": 7169,
+          "sha512": "d6d4126bb6474ec191f4a173ff7ee1bbf6c8e2ca86516dbcc61b18ab15e6bd2fe43e4d76b7ec45ab031109fdd4fd7eaa999b9b12cb637a8ab3dab81d2891e0e9",
+          "sha256": "579858d106bd55d5d0978d03122e650e7baeead8bd241eb33721a08ff3466bc2",
+          "sha1": "e3624ee2e8d5f9ef390a2aba243ead4e20649ae7",
+          "md5": "828537b5da76762db59870c8e7407b5c"
+        }
+      ]
+    }
+  ]
+}
