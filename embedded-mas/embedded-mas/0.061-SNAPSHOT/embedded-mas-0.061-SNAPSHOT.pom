@@ -38,7 +38,7 @@
     <dependency>
       <groupId>javard</groupId>
       <artifactId>javard</artifactId>
-      <version>0.035-SNAPSHOT</version>
+      <version>0.036-SNAPSHOT</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
