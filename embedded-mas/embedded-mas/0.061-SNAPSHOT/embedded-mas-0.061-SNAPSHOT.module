@@ -25,6 +25,13 @@
       },
       "dependencies": [
         {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.036-SNAPSHOT"
+          }
+        },
+        {
           "group": "org.eclipse.jetty.websocket",
           "module": "websocket-server",
           "version": {
@@ -50,11 +57,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 118167,
-          "sha512": "2b471d87d69737be84b4ddd70e646c7a2db1a15f882d8fe3198de9285b02fa181764cc231ce7e73ef6e6d0300158b8b63a1309662b1785b7b0024b8fb5ea400b",
-          "sha256": "72491f992b98461df95b32f58deb3eeaa3a66a60fb64d1474dd34d1c5a9362e2",
-          "sha1": "d3dfbd8bcf6301a9da32055f04ba217da66c5063",
-          "md5": "a9560671bd38fbf7f669561b77f6fda3"
+          "size": 118406,
+          "sha512": "4eecc245345fc97796f10f23efdcad0eef5f24ae519fb3041fad7a55bd8b66773670cea5a87ced01c39c4ed3f2c9cca477ad7dca5c4947438c3f4307cfb12d95",
+          "sha256": "325f628f396ec3763b71a774d39c722cb16e6e5a00ca9a86a614b747ff3159eb",
+          "sha1": "563bcc12491fc1c16ce1b6f40cd84e3f0d12d68a",
+          "md5": "3ecda191a33dafea93703ae41aaee99d"
         }
       ]
     },
@@ -72,14 +79,7 @@
           "group": "com.fazecast",
           "module": "jSerialComm",
           "version": {
-            "requires": "1.3.10"
-          }
-        },
-        {
-          "group": "javard",
-          "module": "javard",
-          "version": {
-            "requires": "0.036-SNAPSHOT"
+            "requires": "2.11.0"
           }
         },
         {
@@ -153,6 +153,13 @@
           }
         },
         {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.036-SNAPSHOT"
+          }
+        },
+        {
           "group": "org.eclipse.jetty.websocket",
           "module": "websocket-server",
           "version": {
@@ -178,11 +185,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 118167,
-          "sha512": "2b471d87d69737be84b4ddd70e646c7a2db1a15f882d8fe3198de9285b02fa181764cc231ce7e73ef6e6d0300158b8b63a1309662b1785b7b0024b8fb5ea400b",
-          "sha256": "72491f992b98461df95b32f58deb3eeaa3a66a60fb64d1474dd34d1c5a9362e2",
-          "sha1": "d3dfbd8bcf6301a9da32055f04ba217da66c5063",
-          "md5": "a9560671bd38fbf7f669561b77f6fda3"
+          "size": 118406,
+          "sha512": "4eecc245345fc97796f10f23efdcad0eef5f24ae519fb3041fad7a55bd8b66773670cea5a87ced01c39c4ed3f2c9cca477ad7dca5c4947438c3f4307cfb12d95",
+          "sha256": "325f628f396ec3763b71a774d39c722cb16e6e5a00ca9a86a614b747ff3159eb",
+          "sha1": "563bcc12491fc1c16ce1b6f40cd84e3f0d12d68a",
+          "md5": "3ecda191a33dafea93703ae41aaee99d"
         }
       ]
     }
