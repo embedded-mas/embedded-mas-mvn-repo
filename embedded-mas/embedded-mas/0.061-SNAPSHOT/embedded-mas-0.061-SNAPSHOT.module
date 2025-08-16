@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.5"
+      "version": "8.7"
     }
   },
   "variants": [
@@ -24,13 +24,6 @@
         "org.gradle.usage": "java-api"
       },
       "dependencies": [
-        {
-          "group": "javard",
-          "module": "javard",
-          "version": {
-            "requires": "0.036-SNAPSHOT"
-          }
-        },
         {
           "group": "org.eclipse.jetty.websocket",
           "module": "websocket-server",
@@ -57,11 +50,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 118406,
-          "sha512": "4eecc245345fc97796f10f23efdcad0eef5f24ae519fb3041fad7a55bd8b66773670cea5a87ced01c39c4ed3f2c9cca477ad7dca5c4947438c3f4307cfb12d95",
-          "sha256": "325f628f396ec3763b71a774d39c722cb16e6e5a00ca9a86a614b747ff3159eb",
-          "sha1": "563bcc12491fc1c16ce1b6f40cd84e3f0d12d68a",
-          "md5": "3ecda191a33dafea93703ae41aaee99d"
+          "size": 119784,
+          "sha512": "fd6fc3d58810c291075f8e333e12cf7625d0ef5747a9c49e728cfff8f3b52c04d779c81e7d09af841053938f1b00275e6dd8e847826f1caed2d5b6b6322e544b",
+          "sha256": "ad90cad458d7dc939bef88b27afc400db2831b45a59e55c21a798652c13e361a",
+          "sha1": "2168001365061dd97df3984c782121e2cd312d3d",
+          "md5": "82f62c4306dee3874feb23d9fa8ebee9"
         }
       ]
     },
@@ -79,7 +72,14 @@
           "group": "com.fazecast",
           "module": "jSerialComm",
           "version": {
-            "requires": "2.11.0"
+            "requires": "1.3.10"
+          }
+        },
+        {
+          "group": "javard",
+          "module": "javard",
+          "version": {
+            "requires": "0.036-SNAPSHOT"
           }
         },
         {
@@ -153,13 +153,6 @@
           }
         },
         {
-          "group": "javard",
-          "module": "javard",
-          "version": {
-            "requires": "0.036-SNAPSHOT"
-          }
-        },
-        {
           "group": "org.eclipse.jetty.websocket",
           "module": "websocket-server",
           "version": {
@@ -185,11 +178,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 118406,
-          "sha512": "4eecc245345fc97796f10f23efdcad0eef5f24ae519fb3041fad7a55bd8b66773670cea5a87ced01c39c4ed3f2c9cca477ad7dca5c4947438c3f4307cfb12d95",
-          "sha256": "325f628f396ec3763b71a774d39c722cb16e6e5a00ca9a86a614b747ff3159eb",
-          "sha1": "563bcc12491fc1c16ce1b6f40cd84e3f0d12d68a",
-          "md5": "3ecda191a33dafea93703ae41aaee99d"
+          "size": 119784,
+          "sha512": "fd6fc3d58810c291075f8e333e12cf7625d0ef5747a9c49e728cfff8f3b52c04d779c81e7d09af841053938f1b00275e6dd8e847826f1caed2d5b6b6322e544b",
+          "sha256": "ad90cad458d7dc939bef88b27afc400db2831b45a59e55c21a798652c13e361a",
+          "sha1": "2168001365061dd97df3984c782121e2cd312d3d",
+          "md5": "82f62c4306dee3874feb23d9fa8ebee9"
         }
       ]
     }
