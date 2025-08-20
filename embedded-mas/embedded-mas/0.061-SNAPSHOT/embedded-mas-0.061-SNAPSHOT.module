@@ -50,11 +50,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 119784,
-          "sha512": "7c8773a6a60e29af50b96ae5e14e46fe26aa4d6d3a9e58a473bbf4cca0234990d44d22c3644fc3dadd256c0db17a9bfbef4087cdf6b3d5400bb74577e16e9b57",
-          "sha256": "a54504d5682b30ff2d5aa581b9011e28947de48ec8e1ac1c354c54fe4fa0b83a",
-          "sha1": "c02e50281b554fcca52476246dbe868b13f0d839",
-          "md5": "a6cfa316f63bf408b6765c5ed7190863"
+          "size": 120162,
+          "sha512": "6f20c2ebd999e7e1a581738ecf9a5d87f8384fac7d0561dc73cae4e804ccc563f777be653e8863cdec2210ef0e01c541676fd51b2566db2efc730259796839af",
+          "sha256": "fbdbdf0ecfbb9af524bab6210fa087bd1b83dcb1b9ac687fbd583d503b4dcfe8",
+          "sha1": "309d504efd9c3044b2f5cc851c82925e43934330",
+          "md5": "b393151722181a07fd1838ab001bca56"
         }
       ]
     },
@@ -72,7 +72,14 @@
           "group": "com.fazecast",
           "module": "jSerialComm",
           "version": {
-            "requires": "1.3.10"
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.neuronrobotics",
+          "module": "nrjavaserial",
+          "version": {
+            "requires": "5.2.1"
           }
         },
         {
@@ -178,11 +185,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 119784,
-          "sha512": "7c8773a6a60e29af50b96ae5e14e46fe26aa4d6d3a9e58a473bbf4cca0234990d44d22c3644fc3dadd256c0db17a9bfbef4087cdf6b3d5400bb74577e16e9b57",
-          "sha256": "a54504d5682b30ff2d5aa581b9011e28947de48ec8e1ac1c354c54fe4fa0b83a",
-          "sha1": "c02e50281b554fcca52476246dbe868b13f0d839",
-          "md5": "a6cfa316f63bf408b6765c5ed7190863"
+          "size": 120162,
+          "sha512": "6f20c2ebd999e7e1a581738ecf9a5d87f8384fac7d0561dc73cae4e804ccc563f777be653e8863cdec2210ef0e01c541676fd51b2566db2efc730259796839af",
+          "sha256": "fbdbdf0ecfbb9af524bab6210fa087bd1b83dcb1b9ac687fbd583d503b4dcfe8",
+          "sha1": "309d504efd9c3044b2f5cc851c82925e43934330",
+          "md5": "b393151722181a07fd1838ab001bca56"
         }
       ]
     }
