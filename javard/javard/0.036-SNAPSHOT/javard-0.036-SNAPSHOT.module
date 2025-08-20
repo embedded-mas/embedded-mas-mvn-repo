@@ -25,10 +25,24 @@
       },
       "dependencies": [
         {
+          "group": "com.fazecast",
+          "module": "jSerialComm",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
           "group": "org.apache.commons",
           "module": "commons-math3",
           "version": {
             "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "com.neuronrobotics",
+          "module": "nrjavaserial",
+          "version": {
+            "requires": "5.2.1"
           }
         }
       ],
@@ -55,13 +69,6 @@
       },
       "dependencies": [
         {
-          "group": "com.fazecast",
-          "module": "jSerialComm",
-          "version": {
-            "requires": "2.11.0"
-          }
-        },
-        {
           "group": "com.google.guava",
           "module": "guava",
           "version": {
@@ -69,10 +76,10 @@
           }
         },
         {
-          "group": "com.neuronrobotics",
-          "module": "nrjavaserial",
+          "group": "com.fazecast",
+          "module": "jSerialComm",
           "version": {
-            "requires": "5.2.1"
+            "requires": "2.11.0"
           }
         },
         {
@@ -80,6 +87,13 @@
           "module": "commons-math3",
           "version": {
             "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "com.neuronrobotics",
+          "module": "nrjavaserial",
+          "version": {
+            "requires": "5.2.1"
           }
         }
       ],
