@@ -3,25 +3,25 @@
   <groupId>embedded-mas</groupId>
   <artifactId>embedded-mas</artifactId>
   <versioning>
-    <lastUpdated>20260527165358</lastUpdated>
+    <lastUpdated>20260904181016</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.061-SNAPSHOT</value>
-        <updated>20260527165358</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>jar</extension>
         <value>0.061-SNAPSHOT</value>
-        <updated>20260527165358</updated>
+        <updated>20260904181016</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.061-SNAPSHOT</value>
-        <updated>20260527165358</updated>
+        <updated>20260904181016</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.061-SNAPSHOT</value>
+        <updated>20260904181016</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
