@@ -50,11 +50,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 131799,
-          "sha512": "4789b795a820ebd56d7d402f31123c0e5297281355c6ad89fbb844e9b1887924684b71b9145a41000901d5ff32b11dd27d646db6b0f29b93ac8533e95b0c5de4",
-          "sha256": "7fd17f2abc693deda37b7d6adb1106c17cbe8d84b303d60b826a9604e4e4930d",
-          "sha1": "1574c9fef3111c56cf13a6f8b3df172de78a3045",
-          "md5": "5b57a41e5d5ad4a7d163889b4e1130ab"
+          "size": 133649,
+          "sha512": "3061600d26c9ac8605f9148e885efd11bb8b35496ec231922b7e9aa1147f1ee1b3e4f83f3de63b31340f8edc474850e5139ddd2d27df2e80d2edebce203e9ab4",
+          "sha256": "43bf900dca484ee2e69faebc3dffff66cbe85399367dda17ec6745018a9a4c43",
+          "sha1": "4b8f2d685c995376b7fd679717897dccefe7aded",
+          "md5": "b415ef5deacf4e2c36bbeb7d2e234666"
         }
       ]
     },
@@ -185,11 +185,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT.jar",
           "url": "embedded-mas-0.061-SNAPSHOT.jar",
-          "size": 131799,
-          "sha512": "4789b795a820ebd56d7d402f31123c0e5297281355c6ad89fbb844e9b1887924684b71b9145a41000901d5ff32b11dd27d646db6b0f29b93ac8533e95b0c5de4",
-          "sha256": "7fd17f2abc693deda37b7d6adb1106c17cbe8d84b303d60b826a9604e4e4930d",
-          "sha1": "1574c9fef3111c56cf13a6f8b3df172de78a3045",
-          "md5": "5b57a41e5d5ad4a7d163889b4e1130ab"
+          "size": 133649,
+          "sha512": "3061600d26c9ac8605f9148e885efd11bb8b35496ec231922b7e9aa1147f1ee1b3e4f83f3de63b31340f8edc474850e5139ddd2d27df2e80d2edebce203e9ab4",
+          "sha256": "43bf900dca484ee2e69faebc3dffff66cbe85399367dda17ec6745018a9a4c43",
+          "sha1": "4b8f2d685c995376b7fd679717897dccefe7aded",
+          "md5": "b415ef5deacf4e2c36bbeb7d2e234666"
         }
       ]
     }
