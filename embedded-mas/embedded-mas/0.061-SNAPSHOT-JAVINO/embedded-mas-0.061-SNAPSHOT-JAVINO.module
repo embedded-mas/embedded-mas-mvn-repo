@@ -50,11 +50,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT-JAVINO.jar",
           "url": "embedded-mas-0.061-SNAPSHOT-JAVINO.jar",
-          "size": 154404,
-          "sha512": "e7125ee467cd5ce6ac53d3a18c472c3933d270139e8e8907deb071929fef0431ccabd263d400933a2fc28fb6d8796a3421510841bcf1edb22422618366d88c69",
-          "sha256": "935f521add33bd2761a78045d7a5a845f8133230e47293653a2c78d2580c5694",
-          "sha1": "c56b906b0821d772660f56b1f6727595f31194df",
-          "md5": "2c2596018e7c14eee11c970a05ec480f"
+          "size": 154506,
+          "sha512": "7743c3e1c4c65e1a949af4ea0e517dd549841564832b7e49b7eac3c96498ed26f221dc5cfa7fd6c0cd3c4c4b228a772008604c8a5cb73cfccc3d9a3e949dc4ea",
+          "sha256": "f259962a7733dfc9e19ba1ad0ab56c4414b9358ee744fa46204a1261b83b8b40",
+          "sha1": "000ceed810f1e6dd587b33ab1b8002b70976eb80",
+          "md5": "d39dfd1986b1e4f57b3c048023e4d6ed"
         }
       ]
     },
@@ -185,11 +185,11 @@
         {
           "name": "embedded-mas-0.061-SNAPSHOT-JAVINO.jar",
           "url": "embedded-mas-0.061-SNAPSHOT-JAVINO.jar",
-          "size": 154404,
-          "sha512": "e7125ee467cd5ce6ac53d3a18c472c3933d270139e8e8907deb071929fef0431ccabd263d400933a2fc28fb6d8796a3421510841bcf1edb22422618366d88c69",
-          "sha256": "935f521add33bd2761a78045d7a5a845f8133230e47293653a2c78d2580c5694",
-          "sha1": "c56b906b0821d772660f56b1f6727595f31194df",
-          "md5": "2c2596018e7c14eee11c970a05ec480f"
+          "size": 154506,
+          "sha512": "7743c3e1c4c65e1a949af4ea0e517dd549841564832b7e49b7eac3c96498ed26f221dc5cfa7fd6c0cd3c4c4b228a772008604c8a5cb73cfccc3d9a3e949dc4ea",
+          "sha256": "f259962a7733dfc9e19ba1ad0ab56c4414b9358ee744fa46204a1261b83b8b40",
+          "sha1": "000ceed810f1e6dd587b33ab1b8002b70976eb80",
+          "md5": "d39dfd1986b1e4f57b3c048023e4d6ed"
         }
       ]
     }
